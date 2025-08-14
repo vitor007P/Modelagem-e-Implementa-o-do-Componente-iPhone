@@ -1,6 +1,5 @@
 # Modelagem-e-Implementação-do-Componente-iPhone
 
-Descrição do Projeto
 Este projeto tem como objetivo aplicar os conceitos de **análise de negócios**, **levantamento de requisitos**, **Programação Orientada a Objetos (POO)** e **modelagem UML** para representar o funcionamento básico do iPhone, inspirado no vídeo de lançamento do aparelho.
 
 O sistema foi modelado e implementado para que a classe `IPhone` desempenhe três papéis distintos:  
