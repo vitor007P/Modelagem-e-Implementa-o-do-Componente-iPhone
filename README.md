@@ -12,4 +12,5 @@ Cada papel foi implementado como uma **interface**, garantindo a separação de 
 
 📄 **Enunciado completo do exercício:**  
 [Desafio iPhone - Modelagem UML e Implementação em Java](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
+
 <img width="1133" height="789" alt="IPhone diagram" src="https://github.com/user-attachments/assets/17927caf-6a89-44ac-a108-fb6ac78ac357" />
